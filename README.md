@@ -94,12 +94,3 @@ Visit [http://127.0.0.1:8000/](http://127.0.0.1:8000/) in your browser.
 * **Extensions missing:** Enable `mbstring`, `fileinfo`, and `curl`.
 * **Database connection errors:** Check `.env` credentials and MySQL server status.
 * If you are using XAMPP/WAMP/Laragon, verify you are editing the correct `php.ini` for CLI PHP.
-
----
-
-## Our valuable team 👩‍💻👨‍💻
-
-<p align="center">
-  <img src="https://contributors-img.web.app/image?repo=ekramasif/Inventory_Management_System" />
-</p>
-```
